@@ -108,7 +108,7 @@ module.exports = (webpackConfig) => {
     { test: /\.eot(\?(.*?))?$/, loader: "file-loader" }
   ]);
 
-  retVal.output.publicPath = "/";
+  retVal.output.publicPath = "./";
 
   if (process.env.NODE_ENV === "production") {
     retVal.output.publicPath = "./";
