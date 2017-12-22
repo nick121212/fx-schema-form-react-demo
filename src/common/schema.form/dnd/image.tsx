@@ -44,8 +44,8 @@ const config = {
         imageFit: 3,
         jsonata: `
             $.{
-                "srcs":[],
-                "title":""
+                "srcs":["https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1635448550,399855456&fm=27&gp=0.jpg"],
+                "title":"大长腿"
             }
         `,
         style: {
