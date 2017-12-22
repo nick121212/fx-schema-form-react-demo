@@ -9,9 +9,7 @@ import image from "./image";
 const children: any[] = [
     row,
     col,
-    echart,
     bar,
-    line,
     image
 ];
 
