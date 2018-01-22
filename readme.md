@@ -3,6 +3,8 @@
 
 一个用于所见即所得的配置系统，主要产出可视化图表。如果组件够丰富，实现一个简单交互的界面也是可以的。
 
+## [demo](https://nick121212.github.io/fx-schema-form-react-demo/dist/index.html#/panel/create)
+
 ## 目录
 
 - [安装部署](#installation)
